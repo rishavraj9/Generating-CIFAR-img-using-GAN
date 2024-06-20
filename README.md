@@ -1,1 +1,3 @@
 # Generating-CIFAR-img-using-GAN
+Hey guys,welcome all to this repo of Generating CIFAR images using GAN and ML. We use GAN model to generate CIFAR images, as GAN is generative adversarial network which consist two different models- 1.Generative model 2.Discriminative model
+The Generative model use to generate fake images from the trained real datasets while Discriminative model use to detect that generated images whether the image is real or fake and based on that it send a feedback to the Generative model.So, the neural network that is created during the model creation work on both forward and backward propagation. 
